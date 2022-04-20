@@ -12,4 +12,5 @@ while band==0:
             band=0 
 
 print(vectpar)
-print("el vector esta ordenado exitosamente!"
+print("el vector esta ordenado exitosamente!")
+print("segundo aviso de impresion")
