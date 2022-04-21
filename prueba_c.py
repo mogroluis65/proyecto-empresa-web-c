@@ -1,3 +1,4 @@
+from estilos import peso
 vectpar=[14,58,2,33,44]
 aux=0
 band=0
@@ -14,3 +15,6 @@ while band==0:
 print(vectpar)
 print("el vector esta ordenado exitosamente!")
 print("segundo aviso de impresion")
+cosa=[200,800,300]
+print(peso(cosa))
+
